@@ -1,0 +1,5 @@
+git--version'檢查git版本'
+git config --global user.name "your name" '設定使用者姓名'
+git config --global user.email "your email"'設定使用者信箱'
+git init'建立git歷史資料處存庫'
+git status'檢查目前檔案狀況'
