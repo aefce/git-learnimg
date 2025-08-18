@@ -33,7 +33,7 @@
 #### git pull 將更新內容載入本地端
 #### git branch 知道自己所在分支
 #### git checkout -b +新分支名稱
-#### git push +遠端名稱 +本地明成(新分支名稱) 分支要上傳github
+#### git push +遠端名稱 +本地名稱(新分支名稱) 分支要上傳github
 ### - - -
 ##### 此資料參考 https://www.youtube.com/watch?v=FKXRiAiQFiY
 
